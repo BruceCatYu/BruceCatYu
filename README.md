@@ -1,6 +1,7 @@
 ### Hi there 👋  
+[![streak](https://codeium.com/badges/v2/user/brucecatyu/streak)](https://codeium.com/profile/brucecatyu)
 [![autocomplete](https://codeium.com/badges/user/brucecatyu/autocomplete)](https://codeium.com/profile/brucecatyu)  
-[![streak](https://codeium.com/badges/v2/user/brucecatyu/streak)](https://codeium.com/profile/brucecatyu)  
+
 
 <!--
 **BruceCatYu/BruceCatYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
